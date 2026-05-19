@@ -12,11 +12,15 @@ The **power budget equation** states that the power budget in a transmission sys
 
 The power budget is the difference between the transmitter output power and the receiver sensitivity in dBm:
 
-<img width="994" height="468" alt="image" src="https://github.com/user-attachments/assets/28074fe1-e571-4356-bf4c-29cf212c8173" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/28074fe1-e571-4356-bf4c-29cf212c8173" width="650">
+</p>
 
 In this exercise, all parameters are given except the fiber length, which must be determined.  
 
-The **receiver sensitivity** is defined as the minimum power required to achieve a BER of <img width="54" height="38" alt="image" src="https://github.com/user-attachments/assets/56f53e67-161a-4d53-ba6e-e31a3725ea43" />, corresponding to a Q factor of 6.  
+The **receiver sensitivity** is defined as the minimum power required to achieve a BER of <p align="center">
+  <img src="https://github.com/user-attachments/assets/56f53e67-161a-4d53-ba6e-e31a3725ea43" width="40">
+</p>, corresponding to a Q factor of 6.  
 - Receiver sensitivity depends on the bit rate.  
 - Fiber attenuation depends on the operating wavelength.  
 
@@ -67,13 +71,20 @@ Using the power budget equation and the parameters below, determine the attenuat
 Compare simulation results with pre-lab calculations and record observations.  
 
 - **Pre-lab Calculations**
-- <img width="1056" height="1371" alt="image" src="https://github.com/user-attachments/assets/cab5378c-4281-4cf6-b78c-424255773f60" />
-<img width="1600" height="549" alt="image" src="https://github.com/user-attachments/assets/ac5a4d07-b7ef-4d89-a08c-20833a83899e" />
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/cab5378c-4281-4cf6-b78c-424255773f60" width="450">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ac5a4d07-b7ef-4d89-a08c-20833a83899e" width="750">
+</p>
 
 
 
 - **Screenshots**
-- <img width="975" height="740" alt="image" src="https://github.com/user-attachments/assets/818ea9dc-aacd-4fe4-83cb-cb74adacf88f" />
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/818ea9dc-aacd-4fe4-83cb-cb74adacf88f" width="650">
+</p>
+
 ## Result
 Thus the Experiment was succesfully completed and output is verified.
 
